@@ -1,3 +1,3 @@
-# chat_app
+# fam_chat
 
-A new Flutter project.
+FamChat, a chat app showcasing Firebase Auth & Firestore.
